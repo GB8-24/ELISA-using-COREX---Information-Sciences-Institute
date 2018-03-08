@@ -1,0 +1,74 @@
+6311	 					maaate -  ማዓዓተ	 												disaster
+6312	 					denegate -  ደነጋተ	 												disaster
+6313	 					maqhezafeti -  ማቅሐዛፈት	 										disaster
+anil-cp2ni-eng_il5	 		naaye hhaadagaa gizee hhaadagaa -  ናኣየ ሕሓኣዳጋኣ  ግዘኤ ሕሓኣዳጋኣ	 	disaster emergency
+anil-cp2ni-eng_il5	 		naaye kxebaabi hhaadagaa - ናኣየ ክሸባኣብ ሕሓኣዳጋኣ	 					local disaster
+anil-cp2ni-eng_il5	 		naaye matsai hhaadagaataate	- ናኣየ ማትጻእ ሕሓኣዳጋታዓተ 				future disasters
+anil-cp2ni-eng_il5	 		naaye tafatero hhaadagaa - ናኣየ ታፋተሮ ሕሓኣዳጋኣ	 					natural disasters
+anil-cp2ni-eng_il5	 		kxabide hhaadagaa - ክሸባኣብ ሕሓኣዳጋኣ	 								disaster risks
+anil-cp2ni-eng_il5	 		hhaadagaa medehhaane - ሕሓኣዳጋኣ መደሕሓኣነ	 						disaster recovery
+anil-cp2ni-eng_il5	 		hhaadagaa mekelekxaale - ሕሓኣዳጋኣ	መከለክሻኣለ 						disaster management
+anil-cp2ni-eng_il5	 		hhaadagaa mekelekxaale - ሕሓኣዳጋኣ	መከለክሻኣለ 						disaster preparedness
+anil-cp2ni-eng_il5	 		hhaadaganyaa teqheaate - ሕሓኣዳጋንያኣ ተቅሐኣዓተ	 						disaster strikes
+anil-cp2ni-eng_il5	 		denegatanyaa hhaadagaataate	- ደነጋታንያኣ ሕሓኣዳጋታዓተ 					disaster strikes
+charles-geezexp-eng_il5	 	hhaadagaa - ሕሓኣዳጋኣ	 											disaster
+charles-geezexp-eng_il5	 	gudeaate - ጉደኣዓተ	 												disaster
+charles-geezexp-il5_eng	 	hhaadagaa - ሕሓኣዳጋኣ	 											disaster
+charles-geezexp-il5_eng	 	gudeaate - ጉደኣዓተ	 												disaster
+jon-ldc-il5_eng	 			maaate -  ማዓዓተ	 												disaster
+jon-ldc-il5_eng	 			denegate -  ደነጋተ	 												disaster
+jon-ldc-il5_eng	 			maqhezafeti -  ማቅሐዛፈት	 										disaster
+tg-memhr-il5_eng	 		maaate -  ማዓዓተ	 												disaster
+tg-memhr-il5_eng	 		maqhezafeti -  ማቅሐዛፈት	 										disaster
+
+
+
+
+
+
+8661	 					aayehi - ኣኣየሕ	 												flood
+8662	 					eleqheleqhe - አለቅለቅሐ	 											flood
+8663	 					aaelaqhelaqha - ኣኣኤላቅሐላቅሐ	 									flood
+anil-cp2ni-eng_il5	 		hhaadagaa zabetsahhe wehhuje - ሕሓኣዳጋኣ ዝዓበትሳሕሐ ወሕሑጀ 	 		catastrophic flood
+anil-cp2ni-eng_il5	 		bewehhuje zetateqheu katamaataate - በወሕሑጀ ዘታተቅሐኡ ካታማታዓተ		towns flooded
+charles-geezexp-eng_il5	 	wehheje - ወሕሐጀ	 												flood
+charles-geezexp-eng_il5	 	weheje - ወሐጀ	 												flooding
+charles-geezexp-eng_il5	 	aatelaqhelaqha - ኣኣተላቅሐላቅሐ	 									flood
+charles-geezexp-il5_eng	 	wehheje - ወሕሐጀ	 												flood
+charles-geezexp-il5_eng	 	weheje - ወሐጀ	 												flooding
+charles-geezexp-il5_eng	 	aatelaqhelaqha - ኣኣተላቅሐላቅሐ	 									flood
+jon-ldc-il5_eng	 			aayehi - ኣኣየሕ	 												flood
+jon-ldc-il5_eng	 			eleqheleqhe - አለቅለቅሐ	 											flood
+jon-ldc-il5_eng	 			aaelaqhelaqha - ኣኣኤላቅሐላቅሐ	 									flood
+tg-glosbe-eng_il5	 		gorefe - ጎረፈ	 													flooding
+tg-memhr-eng_il5	 		aatelaqhelaqha - ኣኣተላቅሐላቅሐ	 									flood
+tg-memhr-il5_eng	 		sagaate - ሳጋዓተ	 												flood gate
+tg-memhr-il5_eng	 		aatelaqhelaqha - ኣኣተላቅሐላቅሐ	 									flood
+tg-memhr-il5_eng	 		eleqeqheleqhe - አለቀቅለቅሐ 	 										flood
+
+
+
+
+6859	 					dereqi - ደረቕ	 												drought
+6860	 					naqhetsi - ናቅሐትስ	 											drought
+6861	 					dereqwaa - ደረቅዋኣ	 											drought
+charles-geezexp-eng_il5	 	dereqi - ደረቕ	 												drought
+charles-geezexp-eng_il5	 	temeete	- ተመኤተ 													drought
+charles-geezexp-eng_il5	 	aamasela - ኣኣማጸላ	 											drought
+charles-geezexp-il5_eng	 	dereqi - ደረቕ	 												drought
+charles-geezexp-il5_eng	 	temeete	- ተመኤተ 													drought
+charles-geezexp-il5_eng	 	aamasela - ኣኣማጸላ	 											drought
+jon-ldc-il5_eng	 			naqhetsi - ናቅሐትስ	 											drought
+jon-ldc-il5_eng	 			dereqi - ደረቕ	 												drought
+jon-ldc-il5_eng	 			dereqwaa - ደረቅዋኣ	 											drought
+tg-memhr-eng_il5	 		dereqi - ደረቕ	 												drought
+tg-memhr-il5_eng	 		dereqi - ደረቕ	 												drought
+
+
+
+
+rpi-panlex-il5_eng	 		deleqeleqe - ደለቀለቐ	 							earthquake
+rpi-panlex-il5_eng	 		meneqeteqaate mederi - መነቀተቃዓተ መደር	 			earthquake
+tg-glosbe-eng_il5	 		deleqeleqe - ደለቀለቐ	 							earthquake
+tg-glosbe-eng_il5	 		meneqeteqaate mederi - መነቀተቃዓተ መደር	 			earthquake
+

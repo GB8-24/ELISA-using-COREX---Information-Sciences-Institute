@@ -1,0 +1,96 @@
+1464	 					balaa	 					disaster
+anil-cp2ni-eng_il6	 		balaa biyyoolessa	 		national disaster
+anil-cp2ni-eng_il6	 		balaa gara fuula draa	 	future disasters
+anil-cp2ni-eng_il6	 		balaa gara fuula duraa	 	future disasters
+anil-cp2ni-eng_il6	 		balaa hamaa	 				disaster risks
+anil-cp2ni-eng_il6	 		balaa hamoo	 				disaster risks
+anil-cp2ni-eng_il6	 		balaa irraa damdamachuu	 	disaster recovery
+anil-cp2ni-eng_il6	 		balaa mudaatu	 			disaster strikes
+anil-cp2ni-eng_il6	 		balaa naannoo	 			local disaster
+anil-cp2ni-eng_il6	 		balaa nam tolchee	 		man-made disasters
+anil-cp2ni-eng_il6	 		balaa uumamaa	 			natural disasters
+anil-cp2ni-eng_il6	 		dhibee irraa fayyuu	 		disaster recovery
+anil-cp2ni-eng_il6	 		qophii balaa duraa	 		disaster preparedness
+anil-cp2ni-eng_il6	 		rukkutaa balaa	 			disaster strikes
+anil-cp2ni-eng_il6	 		to`annoo balaa	 			disaster management
+jon-ldc-il6_eng	 			balaa	 					disaster
+rpi-oromodict-il6_eng	 	balaa namnuumee	 			man-made disaster
+rpi-oromodict-il6_eng	 	balaa obomboleettii	 		disaster cause by whirlwind
+rpi-oromodict-il6_eng	 	balaa uumamaa	 			natural disaster
+
+
+
+
+
+7088	 					goongee	 					drought
+8491	 					hoongawaa	 				droughty
+8494	 					hoongee	 					drought
+12698	 					oolaa	 					severe drought
+jon-ldc-il6_eng	 			goongee	 					drought
+jon-ldc-il6_eng	 			hoongawaa	 				droughty
+jon-ldc-il6_eng	 			hoongee	 					drought
+jon-ldc-il6_eng	 			oolaa	 					severe drought
+rpi-oromodict-il6_eng	 	balaa hoongee	 			drought
+rpi-oromodict-il6_eng	 	goongee	 					drought
+rpi-oromodict-il6_eng	 	hoongawaa	 				droughty
+rpi-oromodict-il6_eng	 	hoongee	 					drought
+rpi-oromodict-il6_eng	 	naannoo gogiinsaa	 		drought affected area
+rpi-oromodict-il6_eng	 	oolaa	 					severe drought
+tg-ebookOCR-eng_il6	 		honge	 					drought
+tg-ebookOCR-il6_eng	 		bongo	 					drought
+tg-ebookOCR-il6_eng	 		rare	 					black cotton soil that cracks in drought
+
+
+
+rpi-oromodict-il6_eng	 	sochii lafaa	 			earthquake
+rpi-panlex-il6_eng	 		chocho'a lafa	 			earthquake
+tg-ebookOCR-eng_il6	 		Info	 					earthquake
+tg-ebookOCR-eng_il6	 		sochoa	 					earthquake
+tg-ebookOCR-il6_eng	 		aochoa	 					earthquake
+
+
+
+
+
+3392	 					daaddoo	 					flood
+6413	 					galaana	 					flood
+6455	 					galoo	 					flood
+7460	 					guutuu1	 					flood
+10500	 					laabaa	 					flood
+10501	 					laabuu	 					flood
+10827	 					lolaa	 					flood
+16609	 					xiniqqee	 				flood
+16611	 					xiniquu	 					flood
+anil-cp2ni-eng_il6	 		balaa lolaa	 				flood stricken
+anil-cp2ni-eng_il6	 		lolaa cimaa	 				catastrophic flood
+anil-cp2ni-eng_il6	 		magaalota lolaan rukkutaman	towns flooded
+anil-cp2ni-eng_il6	 		naannowwan lolaa	 		flood areas
+anil-cp2ni-eng_il6	 		to`annoo loolaa	 			flood control
+jon-ldc-il6_eng	 			daaddoo	 					flood
+jon-ldc-il6_eng	 			galaana	 					flood
+jon-ldc-il6_eng	 			galoo	 					flood
+jon-ldc-il6_eng	 			guutuu	 					flood
+jon-ldc-il6_eng	 			laabaa	 					flood
+jon-ldc-il6_eng	 			laabuu	 					flood
+jon-ldc-il6_eng	 			lolaa	 					flood
+jon-ldc-il6_eng	 			xiniqqee	 				flood
+jon-ldc-il6_eng	 			xiniquu	 					flood
+rpi-oromodict-il6_eng	 	agabxaa daaddoo	 			flood regulation
+rpi-oromodict-il6_eng	 	bishaan badiisaa	 		the biblical flood
+rpi-oromodict-il6_eng	 	daaddoo	 					flood
+rpi-oromodict-il6_eng	 	daddoo hurrissa	 			flood tide
+rpi-oromodict-il6_eng	 	deddeebitii lolaa	 		flood frequency
+rpi-oromodict-il6_eng	 	galaana	 					flood
+rpi-oromodict-il6_eng	 	galoo	 					flood
+rpi-oromodict-il6_eng	 	goodaa daaddoo	 			flood plain
+rpi-oromodict-il6_eng	 	ittisa daadaa	 			flood regulation
+rpi-oromodict-il6_eng	 	laabaa	 					flood
+rpi-oromodict-il6_eng	 	laabuu	 					flood
+rpi-oromodict-il6_eng	 	lolaa	 					flood
+rpi-oromodict-il6_eng	 	tuullaa dubbii	 			a flood of words
+rpi-oromodict-il6_eng	 	xiniqqee	 				flood
+rpi-oromodict-il6_eng	 	xiniquu	 					flood
+tg-ebookOCR-il6_eng	 		Zola	 					flood
+tg-ebookOCR-il6_eng	 		Zola	 					flood water
+
+
